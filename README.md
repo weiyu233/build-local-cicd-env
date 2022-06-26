@@ -13,7 +13,8 @@ You can see [here](https://kubernetes.io/docs/setup/production-environment/tools
 
 #### 1.3 Git clone
 ```bash
-$ git clone git@github.com:weiyu233/k8s-cluster.git
+$ git@github.com:weiyu233/build-local-cicd-env.git
+mv build-local-cicd-env/k8s-cluster /home/kubeuser/
 ```
 
 ### 2. Creating a Non-Root User on All Remote Servers
